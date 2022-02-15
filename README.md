@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋 I'm Jason Vu, WED DEV @ SCU 2024! Welcome to my Github portfolio! 
 
-<!--
-**JAVAB3ANS/JAVAB3ANS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I'm a Web Design & Engineering double minoring in Computer Engineering and Sociology, with interests in full-stack development, information technology, and human-computer interface design.
 
-Here are some ideas to get you started:
+💻 Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I am enthusiastic to face new challenges and possibilities, so don't hesitate to contact me if our interests align!
+
+## My Github Statistics So Far!
+![Jason Vu's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JAVAB3ANS&show_icons=true)
+
+## Find Me Around the Web! 🌎
+- Sending my [resume](https://javab3ans.github.io/pdfs/resume.pdf) to you! 📝
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/) 💼  
+- Scrobbling chill tunes on [Last.FM](https://www.last.fm/user/JAVA9620) 🎶
+
+## Albums I've Listened to the Most This Week 🎹 
+<!-- lastfm --> 
+ 
+ 
