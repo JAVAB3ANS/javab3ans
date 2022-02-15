@@ -15,5 +15,4 @@
 - Scrobbling chill tunes on [Last.FM](https://www.last.fm/user/JAVA9620) 🎶
 
 ## Albums I've Listened to the Most This Week 🎹 
-<!-- lastfm --> 
-  
+<!-- lastfm -->
