@@ -15,7 +15,7 @@
 
 ## Find Me Around the Web! 🌎
 - Sending my [resume](https://javab3ans.github.io/pdfs/resume.pdf) to you! 📝
-- Sharing updates on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/) 💼  
+- Connecting with professional networks on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/) 💼  
 - Scrobbling chill tunes on [Last.FM](https://www.last.fm/user/JAVA9620) 🎶
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
