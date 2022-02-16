@@ -6,13 +6,19 @@
 
 🤝 I am enthusiastic to face new challenges and possibilities, so don't hesitate to contact me if our interests align!
 
+<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
+
 ## My Github Statistics So Far!
 ![Jason Vu's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JAVAB3ANS&show_icons=true)
+
+<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
 
 ## Find Me Around the Web! 🌎
 - Sending my [resume](https://javab3ans.github.io/pdfs/resume.pdf) to you! 📝
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/) 💼  
 - Scrobbling chill tunes on [Last.FM](https://www.last.fm/user/JAVA9620) 🎶
+
+<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
 
 ## Albums I've Listened to the Most This Week 🎹 
 
