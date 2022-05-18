@@ -10,8 +10,6 @@
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
 
-<img align="right" src="https://JAVAB3ANS.github.io/images/logo-pic.jpg" width="230">
-
 ## My Github Statistics So Far!
 ![Jason Vu's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JAVAB3ANS&show_icons=true)
 
