@@ -6,7 +6,10 @@
 
 💻 Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley.
 
-🤝 I am enthusiastic to face new challenges and possibilities, so don't hesitate to contact me if our interests align!
+🙋‍♂️ I am enthusiastic to face new challenges and possibilities, so don't hesitate to contact me if our interests align!
+
+🤝 ***"The sum of our parts, the beat of our hearts, is louder than words..."***
+> Pink Floyd
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
 
