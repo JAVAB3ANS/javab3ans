@@ -2,7 +2,7 @@
 
 ## 👋 I'm Jason Vu, WED DEV @ SCU 2024! Welcome to my Github portfolio! 
 
-⚡ I'm a Web Design & Engineering double minoring in Computer Engineering and Sociology, with interests in full-stack development, information technology, and human-computer interface design.
+⚡ I'm a Web Design and Engineering major with interests in full-stack development, information technology, and human-computer interface design.
 
 💻 Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley.
 
