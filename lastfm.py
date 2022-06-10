@@ -49,7 +49,7 @@ def update_readme(images):
 
                 list = ["album-covers", "album-covers-finished"]
                 for items in list:
-                    os.mkdir(items, exist_ok=True)
+                    os.makedirs(items, exist_ok=True)
 
                 urllib.request.urlretrieve(img[2], f"./album-covers/album-cover_{i}.png")
                 my_image = Image.open(f'./album-covers/album-cover_{i}.png')  
