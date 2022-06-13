@@ -55,6 +55,7 @@ def update_readme(images):
                 my_image = Image.open(f"./album-covers/album-cover_{i}.png")  
                 image_editable = ImageDraw.Draw(my_image) 
                 image_editable.text((1,1), f"{img[0]}\n{img[1]}", (252, 255, 250), font=ImageFont.truetype("./fonts/basic_sans_serif_7.ttf", 10)) 
+                """ Locally download basic_sans_serif_7.ttf into /fonts/ directory for usage """
                 my_image.save(f"./album-covers-finished/album-cover_final_{i}.png")
                 
                 lastfm_line += f'<a href="{img[3]}"><img src="./album-covers-finished/album-cover_final_{i}.png" title="{img[0]} - {img[1]}"></a> '
