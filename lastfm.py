@@ -2,15 +2,15 @@ import requests
 import sys
 from PIL import Image, ImageFont, ImageDraw 
 import urllib.request
-import os 
+import os
 import imageio
 import numpy as np
 
 def lastfm_request(payload):
-    headers = {"user-agent": "JAVA9620"}
-    payload["api_key"] = "9a285a8d8c1768faa463701fc9c8b784"
+    headers = {"user-agent": os.getenv("LASTFM_USER")}
+    payload["api_key"] = os.getenv("LASTFM_API_KEY")
     payload["format"] = "json"
-    payload["user"] = "JAVA9620"
+    payload["user"] = os.getenv("LASTFM_USER")
     response = requests.get("https://ws.audioscrobbler.com/2.0/",
                             headers=headers, params=payload)
     return response
@@ -24,6 +24,7 @@ def get_weekly_album_chart():
                                 data[i]["name"]])
     return artist_and_album
 
+
 def get_album_covers(artist_and_album):
     images = []
     for album in artist_and_album:
@@ -31,7 +32,7 @@ def get_album_covers(artist_and_album):
                    "artist": album[0],
                    "album": album[1]}
         request_response = lastfm_request(payload).json()
-        url = request_response["album"]["image"][2]["#text"]
+        url = request_response["album"]["image"][int(os.getenv("IMAGE_SIZE"))]["#text"]
         link_to_album = request_response["album"]["url"]
         if (url != ""):
             images.append([album[0], album[1], url, link_to_album]) 
@@ -49,7 +50,7 @@ def update_readme(images):
     lastfm_line = '<p align="center">'
     i = 0
     for img in images:
-        if (i < 8):
+        if (i < int(os.getenv("IMAGE_COUNT"))):
             if (requests.get(img[2]).status_code == 200):   
 
                 list = ["album-covers", "album-covers-finished"]
@@ -62,7 +63,7 @@ def update_readme(images):
                 W, H = my_image.size
                 image_editable = ImageDraw.Draw(my_image) 
                 w, h = image_editable.textsize(img[0] + "\n" + img[1])
-                bbox = image_editable.textbbox(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1.5, align="center")
+                bbox = image_editable.textbbox(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center")
 
                 if (get_avg_img_color(f"./album-covers/album-cover_{i}.png") == "dark"):
                     image_editable.rounded_rectangle(bbox, fill=(0, 0, 0), radius=1)
