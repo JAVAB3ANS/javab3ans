@@ -66,10 +66,10 @@ def update_readme(images):
                 bbox = image_editable.textbbox(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center")
 
                 if (get_avg_img_color(f"./album-covers/album-cover_{i}.png") == "dark"):
-                    image_editable.rounded_rectangle(bbox, fill=(0, 0, 0, 174), radius=1)
-                    image_editable.text(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], (239, 235, 239), font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center") 
+                    image_editable.rounded_rectangle(bbox, fill=(0, 0, 0, 140), radius=1)
+                    image_editable.text(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], (255, 255, 255), font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center") 
                 else:
-                    image_editable.rounded_rectangle(bbox, fill=(239, 235, 239, 174), radius=1)
+                    image_editable.rounded_rectangle(bbox, fill=(255, 255, 255, 140), radius=1)
                     image_editable.text(((W - w) / 2, (H - h) - 10), img[0] + "\n" + img[1], (0, 0, 0), font=ImageFont.truetype("./fonts/arial-unicode-ms.ttf", 12), spacing=1, align="center") 
                 
                 """ Locally download arial-unicode-ms.ttf into /fonts/ directory for usage """
