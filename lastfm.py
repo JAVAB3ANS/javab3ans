@@ -37,7 +37,7 @@ def get_album_covers(artist_and_album):
         if (url != ""):
             images.append([album[0], album[1], url, link_to_album]) 
         else:
-            break
+            continue
     return images
 
 def get_avg_img_color(image):
