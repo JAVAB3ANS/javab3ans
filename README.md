@@ -20,7 +20,7 @@
 
 ## Find Me Around the Web! 🌎
 - Sending my [resume](https://javab3ans.github.io/pdfs/resume.pdf) to you ! 📝
-- Connecting with professional networks on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/) and [Handshake](<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
+- Connecting with professional networks on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/) and [Handshake](https://scu.joinhandshake.com/stu/users/25718798) 💼!
 
 ## 👋 I'm Jason Vu, WED DEV @ SCU 2024! Welcome to my Github portfolio! 
 
