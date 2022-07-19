@@ -6,6 +6,14 @@ import os
 import imageio
 import numpy as np
 
+"""
+
+1. Get the weekly album chart from Last.fm
+2. Get the album covers from Last.fm
+3. Update the README.md file with the album covers
+
+"""
+
 def lastfm_request(payload):
     headers = {"user-agent": os.getenv("LASTFM_USER")}
     payload["api_key"] = os.getenv("LASTFM_API_KEY")
