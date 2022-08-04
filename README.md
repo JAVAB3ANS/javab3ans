@@ -27,6 +27,6 @@
 ## Albums I've Listened to the Most This Week 🎹 
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Kanye+West/Donda+2"><img src="./album-covers-finished/album-cover_final_0.png" title="Kanye West - Donda 2"></a> <a href="https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here"><img src="./album-covers-finished/album-cover_final_1.png" title="Pink Floyd - Wish You Were Here"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha"><img src="./album-covers-finished/album-cover_final_0.png" title="C418 - Minecraft - Volume Alpha"></a> <a href="https://www.last.fm/music/David+Bowie/Aladdin+Sane"><img src="./album-covers-finished/album-cover_final_1.png" title="David Bowie - Aladdin Sane"></a> <a href="https://www.last.fm/music/Kanye+West/Donda+2"><img src="./album-covers-finished/album-cover_final_2.png" title="Kanye West - Donda 2"></a> <a href="https://www.last.fm/music/Pink+Floyd/Atom+Heart+Mother"><img src="./album-covers-finished/album-cover_final_3.png" title="Pink Floyd - Atom Heart Mother"></a> <a href="https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here"><img src="./album-covers-finished/album-cover_final_4.png" title="Pink Floyd - Wish You Were Here"></a> </p>
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
