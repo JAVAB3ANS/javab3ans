@@ -27,6 +27,6 @@
 ## Albums I've Listened to the Most This Week 🎹 
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Pink+Floyd/Meddle"><img src="./album-covers-finished/album-cover_final_0.png" title="Pink Floyd - Meddle"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Steely+Dan/Can%27t+Buy+A+Thrill"><img src="./album-covers-finished/album-cover_final_0.png" title="Steely Dan - Can't Buy A Thrill"></a> <a href="https://www.last.fm/music/Fleetwood+Mac/Rumours"><img src="./album-covers-finished/album-cover_final_1.png" title="Fleetwood Mac - Rumours"></a> <a href="https://www.last.fm/music/Pink+Floyd/The+Wall"><img src="./album-covers-finished/album-cover_final_2.png" title="Pink Floyd - The Wall"></a> <a href="https://www.last.fm/music/Pink+Floyd/Meddle"><img src="./album-covers-finished/album-cover_final_3.png" title="Pink Floyd - Meddle"></a> </p>
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
