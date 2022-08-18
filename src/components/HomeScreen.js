@@ -9,7 +9,7 @@ function HomeScreen() {
             <div id="lead">
                 <div id="lead-content">
                 <h1>Jason Vu</h1>
-                <h2>Aspiring Software Developer</h2><a aria-label="resume" draggable="false" href="https://javab3ans.github.io/JAVAB3ANS/jason-vu-resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-rounded-white"><FontAwesomeIcon icon={faCopy}/> My Résumé!</a>
+                <h2>Aspiring Software Developer</h2><a aria-label="resume" draggable="false" href="https://javab3ans.github.io/javab3ans/jason-vu-resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-rounded-white"><FontAwesomeIcon icon={faCopy}/> My Résumé!</a>
                 </div>
                 <div id="lead-overlay"></div>
                 <div id="lead-down"> 
