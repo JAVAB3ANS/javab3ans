@@ -1,6 +1,9 @@
 name: Build LaTeX document
 # Only trigger, when the build workflow succeeded
-on: [push]
+on:
+  push:
+    branches: ['main']
+    paths: ['resume/']
 
 jobs:
   Build_LaTeX_Resume:
