@@ -30,7 +30,7 @@ jobs:
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
           IMAGE_COUNT: 8 # Optional. Defaults to 10. Feel free to remove this line if you want.
           IMAGE_SIZE: 2 # "0" for small image. "1" for medium image. "2" for large image. "3" for extralarge image.
-        run: python ./lastfm/lastfm.py
+        run: python lastfm.py
 
       - name: commit changes
         continue-on-error: true
