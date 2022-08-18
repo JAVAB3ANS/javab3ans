@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/javab3ans/static/css/main.da074d53.css",
+    "main.js": "/javab3ans/static/js/main.3165c329.js",
+    "static/media/last-fm-to-markdown.webp": "/javab3ans/static/media/last-fm-to-markdown.9290e4b308910e9c6d4b.webp",
+    "static/media/lead-bg.webp": "/javab3ans/static/media/lead-bg.8343bd7dedba44831e6e.webp",
+    "static/media/scu-lightning-complex.webp": "/javab3ans/static/media/scu-lightning-complex.3053ba181f33d380abb9.webp",
+    "static/media/glyphicons-halflings-regular.svg": "/javab3ans/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/scu_banner.webp": "/javab3ans/static/media/scu_banner.236837083a2266c5e1c4.webp",
+    "static/media/java.webp": "/javab3ans/static/media/java.bc00567325a52a175922.webp",
+    "static/media/digdoge.webp": "/javab3ans/static/media/digdoge.c3c9ea80abbde6288f21.webp",
+    "static/media/glyphicons-halflings-regular.ttf": "/javab3ans/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/gratition.webp": "/javab3ans/static/media/gratition.bcbde000b9a0327e24b9.webp",
+    "static/media/sjsu.webp": "/javab3ans/static/media/sjsu.bfa9eb7f981966e41907.webp",
+    "static/media/scu-double-dips.webp": "/javab3ans/static/media/scu-double-dips.6876e6499ffc5aa54394.webp",
+    "static/media/digital-logic-design.webp": "/javab3ans/static/media/digital-logic-design.93527125b77d60b8d16e.webp",
+    "static/media/glyphicons-halflings-regular.woff": "/javab3ans/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/javab3ans/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/javab3ans/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/data-structures.webp": "/javab3ans/static/media/data-structures.c9925ae2756e2c1d78c3.webp",
+    "static/media/educord.webp": "/javab3ans/static/media/educord.195cc26ab86423fd9df9.webp",
+    "index.html": "/javab3ans/index.html",
+    "main.da074d53.css.map": "/javab3ans/static/css/main.da074d53.css.map",
+    "main.3165c329.js.map": "/javab3ans/static/js/main.3165c329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da074d53.css",
+    "static/js/main.3165c329.js"
+  ]
+}
