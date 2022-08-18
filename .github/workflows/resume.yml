@@ -1,10 +1,7 @@
 name: Build LaTeX document
 # Only trigger, when the build workflow succeeded
-on:
-  workflow_run:
-    workflows: ["CI/CD"]
-    types:
-      - completed
+on: [push]
+
 jobs:
   Build_LaTeX_Resume:
     runs-on: ubuntu-latest
