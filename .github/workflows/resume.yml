@@ -1,0 +1,24 @@
+name: Build LaTeX document
+on: [push]
+jobs:
+  Build_LaTeX_Resume:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+
+      - name: Compile Resume
+        uses: dante-ev/latex-action@latest
+        with:
+          root_file: resume.tex
+          compiler: pdflatex
+          args: -interaction=nonstopmode -shell-escape
+
+      - name: Commit Resume
+        run: |
+          mv resume.pdf jason-vu.pdf
+          git config --global user.name "javab3ans/javab3ans"
+          git config --global user.email "jvu@scu.edu"
+          git add .
+          git commit -m "📄🔨 Generate Resume" || echo
+          git push
