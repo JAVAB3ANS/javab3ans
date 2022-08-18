@@ -4,19 +4,19 @@
   "homepage": "https://javab3ans.github.io/javab3ans",
   "private": true,
   "dependencies": {
-    "gh-pages": "^4.0.0",
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.2",
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "bootstrap": "^3.3.7",
+    "gh-pages": "^4.0.0",
+    "nth-check": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-load-script": "^0.0.6",
     "react-scripts": "^5.0.1",
     "react-scroll": "^1.8.7",
-    "web-vitals": "^2.1.4",
-    "nth-check": ">=2.0.1"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "predeploy": "npm run build",
