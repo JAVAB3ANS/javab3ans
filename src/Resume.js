@@ -1,7 +1,7 @@
-import React, { Component } from "react"; 
+import React from "react"; 
 import { Document, Page } from "react-pdf"
  
-export default class Resume extends Component {    
+export default class Resume  {    
   state = {
     numPages: null,
     pageNumber: 1,
