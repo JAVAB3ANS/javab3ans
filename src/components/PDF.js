@@ -1,7 +1,7 @@
 import React from "react"   
 import ReactPDF from "@react-pdf/renderer"
 
-function Resume() {
+function PDF() {
     return (
         <ReactPDF
             file={{
@@ -11,4 +11,4 @@ function Resume() {
     )
 }
 
-export default Resume;
+export default PDF;
