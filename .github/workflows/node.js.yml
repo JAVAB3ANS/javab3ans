@@ -8,6 +8,13 @@ on:
     workflows: ["Build LaTeX document"]
     types:
       - completed
+  push:
+    branches: ['main']
+    paths: 
+      - "public/"
+      - "src/"
+      - "package.json"
+      - "package-lock.json"
       
 jobs:
   build:
