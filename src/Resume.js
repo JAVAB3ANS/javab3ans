@@ -1,11 +1,14 @@
 import React, { Component } from "react"; 
-import PDF from './components/PDF';
+import { Document } from 'react-pdf';
  
 export default class Resume extends Component {     
   render () {
     return (  
-      <div className="Resume">    
-        <PDF />
+      <div className="resume-root">
+        <Document
+          file={"./jason-vu-resume.pdf"}
+          onLoadSuccess={onDocumentLoadSuccess}
+        />
       </div>
     ); 
   }
