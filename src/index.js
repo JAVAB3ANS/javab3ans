@@ -5,12 +5,19 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import App from './App';
 import * as serviceWorker from './serviceWorker'; 
 
-
 ReactDOM.createRoot( 
   document.getElementById('root')
 ).render(
   <React.StrictMode>
   <App />
+</React.StrictMode>,
+)
+
+ReactDOM.createRoot( 
+  document.getElementById('resume-root')
+).render(
+  <React.StrictMode>
+  <Resume />
 </React.StrictMode>,
 )
 
