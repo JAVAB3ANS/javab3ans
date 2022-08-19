@@ -19,7 +19,7 @@
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
 
 ## Find Me Around the Web! 🌎
-- Sending my [resume](https://javab3ans.github.io/javab3ans/jason-vu-resume.pdf) to you ! 📝
+- Sending my [resume](https://javab3ans.github.io/javab3ans/resume.html) to you ! 📝
 - Connecting with professional networks on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/)  ! 💼  
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
