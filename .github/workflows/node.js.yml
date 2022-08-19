@@ -11,8 +11,8 @@ on:
   push:
     branches: ['main']
     paths: 
-      - "public/"
-      - "src/"
+      - "public/**"
+      - "src/**"
       - "package.json"
       - "package-lock.json"
       
