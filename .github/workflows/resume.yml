@@ -7,8 +7,8 @@ on:
       - "resume/"
       - "resume.tex"
       - "custom-commands.tex"
-    pull_request:
-      branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   Build_LaTeX_Resume:
