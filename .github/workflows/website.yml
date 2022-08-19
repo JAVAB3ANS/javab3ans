@@ -5,7 +5,7 @@ name: CI/CD
 
 on:
   workflow_run:
-    workflows: ["Build LaTeX document"]
+    workflows: ["Build LaTeX resume"]
     types:
       - completed
   push:
