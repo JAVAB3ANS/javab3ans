@@ -1,4 +1,4 @@
-import React, { Component } from "react"; 
+import React, { Component, useState } from "react"; 
 import { Document, pdfjs } from 'react-pdf';
  
 export default class Resume extends Component {     
