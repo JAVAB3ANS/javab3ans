@@ -1,7 +1,7 @@
 import React from "react"; 
 import { Document, Page } from "react-pdf"
  
-export default class Resume  {    
+export default function Resume() {    
   state = {
     numPages: null,
     pageNumber: 1,
@@ -10,20 +10,18 @@ export default class Resume  {
   onDocumentLoad = ({ numPages }) => {
     this.setState({ numPages });
   }
+ 
+  const { pageNumber, numPages } = this.state;
 
-  render () {  
-    const { pageNumber, numPages } = this.state;
-
-    return (  
-      <div className="resume-root">
-        <Document
-          file="./jason-vu-resume.pdf"
-          onLoadSuccess={this.onDocumentLoad}
-        >
-          <Page pageNumber={pageNumber} />
-        </Document>
-        <p>Page {pageNumber} of {numPages}</p>
-      </div>
-    ); 
-  }
+  return (  
+    <div className="resume-root">
+      <Document
+        file="./jason-vu-resume.pdf"
+        onLoadSuccess={this.onDocumentLoad}
+      >
+        <Page pageNumber={pageNumber} />
+      </Document>
+      <p>Page {pageNumber} of {numPages}</p>
+    </div>
+  );  
 } 
