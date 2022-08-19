@@ -20,13 +20,13 @@
 
 ## Find Me Around the Web! 🌎
 - Sending my [resume](https://javab3ans.github.io/javab3ans/jason-vu-resume.pdf) to you ! 📝
-- Connecting with professional networks on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/) and [Handshake](https://scu.joinhandshake.com/stu/users/25718798) ! 💼  
+- Connecting with professional networks on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/)  ! 💼  
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
 
 ## Albums I've Listened to the Most This Week 🎹 
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Steely+Dan/Can%27t+Buy+A+Thrill"><img src="./album-covers-finished/album-cover_final_0.png" title="Steely Dan - Can't Buy A Thrill"></a> <a href="https://www.last.fm/music/Fleetwood+Mac/Rumours"><img src="./album-covers-finished/album-cover_final_1.png" title="Fleetwood Mac - Rumours"></a> <a href="https://www.last.fm/music/Pink+Floyd/Obscured+by+Clouds"><img src="./album-covers-finished/album-cover_final_2.png" title="Pink Floyd - Obscured by Clouds"></a> <a href="https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here"><img src="./album-covers-finished/album-cover_final_3.png" title="Pink Floyd - Wish You Were Here"></a> <a href="https://www.last.fm/music/Pink+Floyd/The+Wall"><img src="./album-covers-finished/album-cover_final_4.png" title="Pink Floyd - The Wall"></a> <a href="https://www.last.fm/music/Pink+Floyd/Meddle"><img src="./album-covers-finished/album-cover_final_5.png" title="Pink Floyd - Meddle"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha"><img src="./album-covers-finished/album-cover_final_0.png" title="C418 - Minecraft - Volume Alpha"></a> <a href="https://www.last.fm/music/Steely+Dan/Can%27t+Buy+A+Thrill"><img src="./album-covers-finished/album-cover_final_1.png" title="Steely Dan - Can't Buy A Thrill"></a> <a href="https://www.last.fm/music/Fleetwood+Mac/Rumours"><img src="./album-covers-finished/album-cover_final_2.png" title="Fleetwood Mac - Rumours"></a> <a href="https://www.last.fm/music/Pink+Floyd/Obscured+by+Clouds"><img src="./album-covers-finished/album-cover_final_3.png" title="Pink Floyd - Obscured by Clouds"></a> <a href="https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here"><img src="./album-covers-finished/album-cover_final_4.png" title="Pink Floyd - Wish You Were Here"></a> <a href="https://www.last.fm/music/Pink+Floyd/The+Wall"><img src="./album-covers-finished/album-cover_final_5.png" title="Pink Floyd - The Wall"></a> <a href="https://www.last.fm/music/Kate+Bush/Hounds+of+Love"><img src="./album-covers-finished/album-cover_final_6.png" title="Kate Bush - Hounds of Love"></a> <a href="https://www.last.fm/music/Pink+Floyd/Meddle"><img src="./album-covers-finished/album-cover_final_7.png" title="Pink Floyd - Meddle"></a> </p>
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
