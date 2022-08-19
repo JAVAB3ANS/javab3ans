@@ -1,4 +1,4 @@
-name: Build LaTeX resume
+name: Build LaTeX document
 # Only trigger, when the build workflow succeeded
 on:
   push:
