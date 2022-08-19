@@ -1,12 +1,17 @@
 name: Build LaTeX document
 # Only trigger, when the build workflow succeeded
+
 on:
-  push:
-    branches: ['main']
+  push: 
     paths: 
-      - "resume/"
-      - "resume.tex"
-      - "custom-commands.tex"
+      - "resume/**"
+      - resume.tex
+      - custom-commands.tex
+  pull_request:
+    paths: 
+      - "resume/**"
+      - resume.tex
+      - custom-commands.tex
 
 jobs:
   Build_LaTeX_Resume:
