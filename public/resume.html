@@ -10,21 +10,14 @@
     <meta property="og:title" content="while TimeIsRight() { send ( My Résumé 📃 );">
     <meta property="og:description" content="⛳ Jason Vu's Resume">
     <meta property="og:url" content="https://JAVAB3ANS.github.io/javab3ans/resume.html">
-    <meta property="og:image" content="%PUBLIC_URL%/logo-pic.jpg">  
+    <meta property="og:image" content="./jason-vu-resume.png">  
     <meta property="og:locale" content="en_US">
     <meta name="twitter:card" content="summary"> 
-    <link rel="shortcut icon" href="%PUBLIC_URL%/logo-pic.jpg" type="image/x-icon">
-    <link rel="icon" href="%PUBLIC_URL%/logo-pic.jpg" type="image/x-icon"> 
+    <link rel="shortcut icon" href="./logo-pic.jpg" type="image/x-icon">
+    <link rel="icon" href="./logo-pic.jpg" type="image/x-icon"> 
     <title>Jason Vu's Resume</title>
     </head> 
     <body style="width:100%; height:100%; margin:0; overflow-y: hidden;">
         <iframe id="resume" src="./jason-vu-resume.pdf" style="width:100%; height:100%; " frameborder="0"></iframe>
-        <script>
-            var node = document.getElementById("resume");
-            
-            domtoimage.toBlob(node).then(function (blob) {
-                window.saveAs(blob, "./jason-vu-resume.png");
-            });
-        </script>
     </body>
 </html>
