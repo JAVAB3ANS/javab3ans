@@ -2,8 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client'; // for rendering on the client side
 import './index.css'; 
 import 'bootstrap/dist/css/bootstrap.min.css'   
-import App from './App';
-import Resume from './Resume'
+import App from './App'; 
 import * as serviceWorker from './serviceWorker'; 
 
 ReactDOM.createRoot( 
@@ -11,14 +10,6 @@ ReactDOM.createRoot(
 ).render(
   <React.StrictMode>
   <App />
-</React.StrictMode>,
-)
-
-ReactDOM.createRoot( 
-  document.getElementById('resume-root')
-).render(
-  <React.StrictMode>
-  <Resume />
 </React.StrictMode>,
 )
 
