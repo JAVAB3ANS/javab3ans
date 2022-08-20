@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/javab3ans/static/css/main.da074d53.css",
-    "main.js": "/javab3ans/static/js/main.8efa6b5e.js",
+    "main.js": "/javab3ans/static/js/main.fcfd1d02.js",
     "static/media/last-fm-to-markdown.webp": "/javab3ans/static/media/last-fm-to-markdown.9290e4b308910e9c6d4b.webp",
     "static/media/lead-bg.webp": "/javab3ans/static/media/lead-bg.8343bd7dedba44831e6e.webp",
     "static/media/scu-lightning-complex.webp": "/javab3ans/static/media/scu-lightning-complex.3053ba181f33d380abb9.webp",
@@ -21,10 +21,10 @@
     "static/media/educord.webp": "/javab3ans/static/media/educord.195cc26ab86423fd9df9.webp",
     "index.html": "/javab3ans/index.html",
     "main.da074d53.css.map": "/javab3ans/static/css/main.da074d53.css.map",
-    "main.8efa6b5e.js.map": "/javab3ans/static/js/main.8efa6b5e.js.map"
+    "main.fcfd1d02.js.map": "/javab3ans/static/js/main.fcfd1d02.js.map"
   },
   "entrypoints": [
     "static/css/main.da074d53.css",
-    "static/js/main.8efa6b5e.js"
+    "static/js/main.fcfd1d02.js"
   ]
 }
