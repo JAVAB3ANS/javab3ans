@@ -14,12 +14,14 @@ on:
       - "src/**"
       - package.json
       - package-lock.json
+      - .github/workflows/node.js.yml
   pull_request:
     paths:
       - "public/**"
       - "src/**"
       - package.json
       - package-lock.json
+      - .github/workflows/node.js.yml
       
 jobs:
   build:
