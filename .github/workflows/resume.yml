@@ -7,13 +7,11 @@ on:
       - "resume/**"
       - resume.tex
       - custom-commands.tex
-      - .github/workflows/resume.yml
   pull_request:
     paths: 
       - "resume/**"
       - resume.tex
       - custom-commands.tex
-      - .github/workflows/resume.yml
 
 jobs:
   Build_LaTeX_Resume:
