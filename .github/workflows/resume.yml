@@ -32,7 +32,7 @@ jobs:
       - name: Commit Resume
         run: |
           mv resume.pdf public/jason-vu-resume.pdf
-          git config --global user.name $user_name
+          git config --global user.name "javab3ans/javab3ans"
           git config --global user.email $user_email
           git add .
           git commit -m "📄🔨 Generate Resume" || echo
