@@ -33,7 +33,7 @@ jobs:
         run: |
           mv resume.pdf public/jason-vu-resume.pdf
           git config --global user.name "javab3ans/javab3ans"
-          git config --global user.email $user_email
+          git config --global user.email "jvu@scu.edu"
           git add .
           git commit -m "📄🔨 Generate Resume" || echo
           git push
