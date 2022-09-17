@@ -27,6 +27,6 @@
 ## Albums I've Listened to the Most This Week 🎹 
 
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Macintosh+Plus/Floral+Shoppe"><img src="./album-covers-finished/album-cover_final_0.png" title="Macintosh Plus - Floral Shoppe"></a> <a href="https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha"><img src="./album-covers-finished/album-cover_final_1.png" title="C418 - Minecraft - Volume Alpha"></a> <a href="https://www.last.fm/music/Steely+Dan/Aja"><img src="./album-covers-finished/album-cover_final_2.png" title="Steely Dan - Aja"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha"><img src="./album-covers-finished/album-cover_final_0.png" title="C418 - Minecraft - Volume Alpha"></a> <a href="https://www.last.fm/music/Steely+Dan/Aja"><img src="./album-covers-finished/album-cover_final_1.png" title="Steely Dan - Aja"></a> </p>
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
