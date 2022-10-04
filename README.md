@@ -11,12 +11,7 @@
 🤝 ***"The sum of our parts, the beat of our hearts, is louder than words..."***
 > Pink Floyd
 
-<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
-
-## My Github Statistics So Far!
-![Jason Vu's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JAVAB3ANS&show_icons=true)
-
-<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
+<img src="./.github/workflows/banner_strip.png" width="100%" height="5px"> 
 
 ## Find Me Around the Web! 🌎
 - Here's my [website](https://javab3ans.github.io/portfolio) and [resume](https://javab3ans.github.io/portfolio/resume.html) ! 📝
