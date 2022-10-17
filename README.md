@@ -2,9 +2,9 @@
 
 ## 👋 I'm Jason Vu, Aspiring Software Dev @ SCU 2024!
 
-⚡ I'm a Web Design and Engineering major with interests in full-stack development, information technology, and human-computer interface design.
+⚡ I'm passionate about the computing industry, and I'm heavily invested in full-stack development, information technology, and human-computer interaction design.
 
-💻 Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about the computing industry in the Silicon Valley.
+💻 Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about tech opportunities within the Silicon Valley.
 
 🙋‍♂️ I am enthusiastic to face new challenges and possibilities, so don't hesitate to contact me if our interests align!
 
