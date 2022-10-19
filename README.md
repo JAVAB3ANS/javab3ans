@@ -1,6 +1,6 @@
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
 
-## 👋 I'm Jason Vu, Aspiring Software Dev @ SCU 2024!
+## 👋 I'm Jason Vu, Aspiring Software Engineer @ SCU 2024!
 
 ⚡ I'm passionate about the computing industry, and I'm heavily invested in full-stack development, information technology, and human-computer interaction design.
 
