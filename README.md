@@ -14,7 +14,7 @@
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px"> 
 
 ## Find Me Around the Web! 🌎
-- Here's my [website](https://javab3ans.github.io/portfolio) and [resume](https://javab3ans.github.io/portfolio/resume.html) ! 📝
+- Here's my [resume](https://javab3ans.github.io/portfolio/resume.html) ! 📝
 - Connecting with professional networks on [Linkedin](https://www.linkedin.com/in/jason-anh-vu/)  ! 💼  
 
 <img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
