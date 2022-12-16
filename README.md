@@ -30,9 +30,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord JS" alt="Discord JS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>
     
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
@@ -46,7 +44,7 @@
      <p>✯ I am a senior-standing junior engineering student currently attending Santa Clara University. ✯</p>
      <p>✯ I have experience with fullstack development, human-computer interaction design, and academic research. ✯</p>
      <p>✯ I'm currently located in the Bay Area and looking for local and/or remote software internship opportunities. ✯</p>
-     <p>✯ In my spare time, I enjoy playing classical piano/guitar, spending time with family, and bouncing around Discord/Reddit chat forums. ✯</p>
+     <p>✯ In my spare time, I enjoy playing classical piano/guitar, spending time with family, and bouncing around Discord and Reddit. ✯</p>
      <p>✯ You can also find my resume
       <a href="https://javab3ans.github.io/portfolio/jason-vu-resume.pdf">here</a>. ✯
      </p>
