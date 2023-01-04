@@ -6,13 +6,6 @@
   <div id="initial-comment" align="center">
     <p>Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about tech opportunities within the Silicon Valley. Here you'll find projects I've worked on for the past couple of months or just a couple of days!</p>
   </div>
-  <div id="badges" align="center">
-    <div id="links">
-      <a href="https://www.linkedin.com/in/jason-anh-vu/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a> 
-    </div> 
-  </div>
   <br>
   <div id="languages" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
