@@ -1,4 +1,4 @@
-<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
+<img src="./banner_strip.png" width="100%" height="5px">
 <div id="header" align="center"> 
   <div id="name" align="center">
     <h1>Jason Vu, Aspiring Software Engineer @ SCU 2024!</h1>
@@ -49,4 +49,4 @@
       <a href="https://javab3ans.github.io/portfolio/jason-vu-resume.pdf">here</a>. ✯
      </p>
   </div>
-<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
+<img src="./banner_strip.png" width="100%" height="5px">
