@@ -34,7 +34,7 @@
 <div id="about" align="center">
   <h2>About Me</h2>
   <div id="list">
-     <p>✯ I am a senior-standing junior engineering student currently attending Santa Clara University. ✯</p>
+     <p>✯ I am a web development / computer engineering student currently attending Santa Clara University. ✯</p>
      <p>✯ I have experience with fullstack development, human-computer interaction design, and academic research. ✯</p>
      <p>✯ I'm currently located in the Bay Area and looking for local and/or remote software internship opportunities. ✯</p>
      <p>✯ In my spare time, I enjoy playing classical piano/guitar, spending time with family, and bouncing around Discord and Reddit. ✯</p>
