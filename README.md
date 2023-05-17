@@ -30,7 +30,7 @@
    </div>
 </div>
 <br>
-<img src="./.github/workflows/banner_strip.png" width="100%" height="5px">
+<img src="./banner_strip.png" width="100%" height="5px">
 <div id="about" align="center">
   <h2>About Me</h2>
   <div id="list">
