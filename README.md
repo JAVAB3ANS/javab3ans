@@ -38,8 +38,8 @@
      <p>✯ Have experience with fullstack development, human-computer interaction design, and academic research. ✯</p>
      <p>✯ Currently located in the Bay Area and looking for local and/or remote software internship opportunities. ✯</p>
      <p>✯ In my spare time, I enjoy playing classical piano/guitar, spending time with family, and bouncing around Discord and Reddit. ✯</p>
-     <p>✯ You can also find my resume
-      <a href="https://javab3ans.github.io/portfolio/jason-vu-resume.pdf">here</a>. ✯
+     <p>✯ You can find my <b>Curriculum Vitae</b>
+      <a href="https://javab3ans.github.io/portfolio/jason-vu-cv.pdf">here</a>. ✯
      </p>
   </div>
 <img src="./banner_strip.png" width="100%" height="5px">
