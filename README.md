@@ -4,7 +4,7 @@
     <h1>Jason Vu, Aspiring Software Engineer @ SCU 2024!</h1>
   </div>
   <div id="initial-comment" align="center">
-    <p>Obsessed with technology and the intuitive user-computer design process, I’m a resourceful individual who’s passionate about tech opportunities within the <b>Silicon Valley</b>. Here you'll find projects I've worked on for the past couple of months or just a couple of days!</p>
+    <p>Here you'll find projects I've worked on for the past couple of months or just a couple of days!</p>
   </div>
   <br>
   <div id="languages" align="center">
@@ -36,7 +36,7 @@
   <div id="list">
      <p>✯ Full-time college student pursuing my school's <b>5-year B.S./M.S.</b> in <b>Computer Science and Engineering</b> to broaden my horizons! ✯
      <p>✯ Have experience with fullstack development, human-computer interaction design, and academic research. ✯</p>
-     <p>✯ Currently located in the <b>Bay Area</b> and looking for local and/or remote software internship opportunities. ✯</p>
+     <p>✯ Currently located in the <b>Bay Area</b>. ✯</p>
      <p>✯ In my spare time, I enjoy playing classical piano/guitar, spending time with family, and bouncing around Discord and Reddit. ✯</p>
      <p>✯ You can find my <b>Curriculum Vitae</b>
       <a href="https://javab3ans.github.io/portfolio/jason-vu-cv.pdf">here</a>. ✯
