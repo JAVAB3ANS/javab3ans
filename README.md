@@ -35,10 +35,7 @@
   <h2>About Me</h2>
   <div id="list">
      <p>✯ Full-time college student pursuing my school's <b>5-year B.S./M.S.</b> in <b>Computer Science and Engineering</b> to broaden my horizons! ✯
-     <p>✯ Have experience with fullstack development, human-computer interaction design, and academic research. ✯</p>
-     <p>✯ Currently located in the <b>Bay Area</b>. ✯</p>
-     <p>✯ In my spare time, I enjoy playing classical piano/guitar, spending time with family, and bouncing around Discord and Reddit. ✯</p>
-     <p>✯ You can find my <b>Linkedin</b> <a href="https://www.linkedin.com/in/jason-anh-vu/">here</a>. ✯
-     </p>
+     <p>✯ Have experience with fullstack development, human-computer interaction design, and academic research. ✯</p> 
+     <p>✯ In my spare time, I enjoy playing classical piano/guitar, spending time with family, and bouncing around Discord and Reddit. ✯</p> 
   </div>
 <img src="./banner_strip.png" width="100%" height="5px">
