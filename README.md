@@ -34,14 +34,14 @@
 <div id="about" align="center">
   <h2>About Me</h2>
   <div id="list">
-     <p>👨‍💻 Aspiring Software Engineering professional dedicated to driving impactful development solutions</p>
+     <p>👨‍💻 Aspiring <b>Software Engineering</b> professional dedicated to driving impactful development solutions</p>
 
-<p>💡 Founder/Developer behind Santa Clara University’s online Discord forum of 1200+ students since 2020</p>
+<p>💡 <b>Founder/Developer</b> behind <b>Santa Clara University’s</b> online <em>Discord</em> forum of 1200+ students since 2020</p>
 
-<p>🤩 The forum was formerly Google’s first-ranked page when searching "SCU Discord Network" in lucky mode!</p>
+<p>🤩 The forum was formerly Google’s first-ranked page when searching <em>"SCU Discord Network"</em> in lucky mode!</p>
 
-<p>⚙️ Tech Skills: HTML5, CSS, JS, Node.js, TypeScript, Python, Bash/Shell Scripting, Git/GitHub</p>
+<p>⚙️ <b>Tech Skills:</b> <em>HTML5, CSS, JS, Node.js, TypeScript, Python, Bash/Shell Scripting, Git/GitHub</em></p>
 
-<p>🤔 Career Interests: DevOps, Technical Consulting, Cloud Solutions, Business Automation 🌐🤖</p>
+<p>🤔 <b>Career Interests:</b> DevOps, Technical Consulting, Cloud Solutions, Business Automation 🌐🤖</p>
   </div>
 <img src="./banner_strip.png" width="100%" height="5px">
