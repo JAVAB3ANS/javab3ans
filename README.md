@@ -34,8 +34,14 @@
 <div id="about" align="center">
   <h2>About Me</h2>
   <div id="list">
-     <p>✯ Full-time college student pursuing my school's <b>5-year B.S./M.S.</b> in <b>Computer Science and Engineering</b> to broaden my horizons! ✯
-     <p>✯ Have experience with fullstack development, human-computer interaction design, and academic research. ✯</p> 
-     <p>✯ In my spare time, I enjoy playing classical piano/guitar, spending time with family, and bouncing around Discord and Reddit. ✯</p> 
+     <p>👨‍💻 Aspiring Software Engineering professional dedicated to driving impactful development solutions</p>
+
+<p>💡 Founder/Developer behind Santa Clara University’s online Discord forum of 1200+ students since 2020</p>
+
+<p>🤩 The forum was formerly Google’s first-ranked page when searching "SCU Discord Network" in lucky mode!</p>
+
+<p>⚙️ Tech Skills: HTML5, CSS, JS, Node.js, TypeScript, Python, Bash/Shell Scripting, Git/GitHub</p>
+
+<p>🤔 Career Interests: DevOps, Technical Consulting, Cloud Solutions, Business Automation 🌐🤖</p>
   </div>
 <img src="./banner_strip.png" width="100%" height="5px">
