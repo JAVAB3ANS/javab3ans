@@ -38,7 +38,7 @@
 
 <p>💡 <b>Founder/Developer</b> behind <b>Santa Clara University’s</b> online <em>Discord</em> forum of 1200+ students since 2020</p>
 
-<p>🤩 The forum was formerly Google’s first-ranked page when searching <em>"SCU Discord Network"</em> in lucky mode!</p>
+<p>🤩 The forum is Google's top result with organic search for <em>"Santa Clara University Discord"</em> using lucky mode!</p>
 
 <p>⚙️ <b>Tech Skills:</b> <em>HTML5, CSS, JS, Node.js, TypeScript, Python, Bash/Shell Scripting, Git/GitHub</em></p>
 
