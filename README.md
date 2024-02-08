@@ -18,7 +18,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services"  alt="Amazon Web Services" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services"  alt="Amazon Web Services" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord JS" alt="Discord JS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>
@@ -38,7 +38,7 @@
 
 <p>💡 <b>Founder/Developer</b> behind <b>Santa Clara University’s</b> online <em>Discord</em> forum of 1200+ students since 2020</p>
 
-<p>🤩 The forum is Google's top result with organic search for <em>"Santa Clara University Discord"</em> using lucky mode!</p>
+<p>🤩 The forum is Google's top result with organic search for <strong><em>"Santa Clara University Discord"</em></strong>!</p>
 
 <p>⚙️ <b>Tech Skills:</b> <em>HTML5, CSS, JS, Node.js, TypeScript, Python, Bash/Shell Scripting, Git/GitHub</em></p>
 
