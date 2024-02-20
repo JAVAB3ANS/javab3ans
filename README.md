@@ -38,7 +38,7 @@
 
 <p>💡 <b>Founder/Developer</b> behind <b>Santa Clara University’s</b> online <em>Discord</em> forum of 1200+ students since 2020</p>
 
-<p>🤩 The forum is <strong>Google's</strong> top 5th result with organic search for <strong><em>"Santa Clara University Discord Network"</em></strong>!</p>
+<p>🤩 The forum is <strong>Google's</strong> top 4th result with organic search for <strong><em>"Santa Clara University Discord Network"</em></strong>!</p>
 
 <p>⚙️ <b>Tech Skills:</b> <em>HTML5, CSS, JS, Node.js, TypeScript, Python, Bash/Shell Scripting, Git/GitHub</em></p>
 
