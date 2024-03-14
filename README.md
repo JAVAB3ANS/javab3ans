@@ -1,7 +1,7 @@
 <img src="./banner_strip.png" width="100%" height="5px">
 <div id="header" align="center"> 
   <div id="name" align="center">
-    <h1>Jason Vu, Aspiring Software Engineer @ SCU 2024!</h1>
+    <h1>Jason Vu, Founding SWE at SCU Discord Network!</h1>
   </div>
   <div id="initial-comment" align="center">
     <p>Here you'll find projects I've worked on for the past couple of months or just a couple of days!</p>
