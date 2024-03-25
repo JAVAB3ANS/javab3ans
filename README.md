@@ -42,6 +42,6 @@
 
 <p>⚙️ <b>Tech Skills:</b> <em>HTML5, CSS, JS, Node.js, TypeScript, Python, Bash/Shell Scripting, Git/GitHub</em></p>
 
-<p>🤔 <b>Career Interests:</b> DevOps, Technical Consulting, Cloud Solutions, Business Automation 🌐🤖</p>
+<p>🗣️ <b>Keywords:</b> <em>Startup Experience, Rapid Prototyping, Agile Development, MVP Development, Technical Leadership, Product Development, Startup Culture, Fast-Paced Environment, Entrepreneurial Mindset, Self-Starter, Results-Oriented, High Standards, Cross-Functional Colaboration, Continuous Improvement, Goal-Oriented, Initiative-Taking, Adaptability</em></p>
   </div>
 <img src="./banner_strip.png" width="100%" height="5px">
