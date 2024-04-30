@@ -36,7 +36,7 @@
   <div id="list">
      <p>👨‍💻 Aspiring <b>Software Engineering</b> professional dedicated to driving impactful development solutions</p>
 
-<p>💡 <b>Founder/Developer</b> behind <b>Santa Clara University’s</b> online <em>Discord</em> forum of 1200+ students since 2020</p>
+<p>💡 <b>Founder/Developer</b> behind <b>Santa Clara University’s</b> online <em>Discord</em> forum of 1200+ members since 2020</p>
 
 <p>🤩 The forum occupies <strong>Google's first page results</strong> with organic search for <strong><em>"Santa Clara University Discord Network"</em></strong>!</p>
 
